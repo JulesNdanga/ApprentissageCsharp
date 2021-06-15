@@ -1,6 +1,6 @@
 # ApprentissageCsharp
 
-• Les chaînes de caractères
+• Gestion des erreurs
 • Les génériques
 • Les chaînes de caractères
 
