@@ -1,6 +1,6 @@
 # ApprentissageCsharp
 
-•Les types, références, valeurs et types
-• Les instructions(divers)
-• Les classes
-• L’héritage
+• Les chaînes de caractères
+• Les génériques
+• Les chaînes de caractères
+
