@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\Couple\Couple\obj\Debug\netcoreapp2.1\Couple.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Couple\Couple\obj\Debug\netcoreapp2.1\Couple.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Couple\Couple\obj\Debug\netcoreapp2.1\Couple.AssemblyInfo.cs
+C:\Users\hp\source\repos\Couple\Couple\obj\Debug\netcoreapp2.1\Couple.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Couple\Couple\bin\Debug\netcoreapp2.1\Couple.deps.json
+C:\Users\hp\source\repos\Couple\Couple\bin\Debug\netcoreapp2.1\Couple.runtimeconfig.json
+C:\Users\hp\source\repos\Couple\Couple\bin\Debug\netcoreapp2.1\Couple.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Couple\Couple\bin\Debug\netcoreapp2.1\Couple.dll
+C:\Users\hp\source\repos\Couple\Couple\bin\Debug\netcoreapp2.1\Couple.pdb
+C:\Users\hp\source\repos\Couple\Couple\obj\Debug\netcoreapp2.1\Couple.dll
+C:\Users\hp\source\repos\Couple\Couple\obj\Debug\netcoreapp2.1\Couple.pdb
